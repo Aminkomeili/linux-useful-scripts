@@ -28,7 +28,7 @@ The script will then display hardware and software information for your system.
 Contributions to this script are welcome. Please fork the repository, make your changes, and submit a pull request.
 ## Authors
 
-   Amin Komeili - Initial work
+   Amin Komeili
 
 ## License
 
