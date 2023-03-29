@@ -2,6 +2,7 @@
 
 This Bash script is designed to display hardware and software information for a Linux system running Ubuntu. It utilizes various system commands to retrieve the information and then prints it to the terminal.
 ## Getting Started
+
 ## Prerequisites
 
 This script is designed to run on a Linux system running Ubuntu. It has been tested on Ubuntu 20.04 LTS.
