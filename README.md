@@ -26,7 +26,7 @@ bash
 The script will then display hardware and software information for your system.
 ## Contributing
 
-Contributions to this script are welcome. Please fork the repository, make your changes, and submit a pull request.
+Contributions to this script are welcome. Please fork the repository, make your changes, and submit a pull request. :)
 ## Authors
 
    **Amin Komeili**
