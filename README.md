@@ -34,3 +34,4 @@ Contributions to this script are welcome. Please fork the repository, make your 
 ## License
 
 This project is licensed under the MIT License.
+
