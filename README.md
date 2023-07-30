@@ -1,4 +1,4 @@
-# Linux Useful Scripts Amin
+# Linux Useful Scripts 
 
 This Bash script is designed to display hardware and software information for a Linux system running Ubuntu. It utilizes various system commands to retrieve the information and then prints it to the terminal.
 ## Getting Started
